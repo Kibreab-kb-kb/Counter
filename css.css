@@ -1,0 +1,47 @@
+body{
+    background-image: url("");
+
+    font-size: bold;
+
+    font-family: -apple-system,system-ui,BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    text-align: center;
+
+    background-size: cover;
+
+}
+ h1{
+    margin-top:10px;
+    margin-bottom: 10px;
+    font-size:bold;
+
+ }
+ h2{
+    margin-top: 10px;
+    margin-bottom:0px;
+    font-size:bold;
+
+ }
+
+ button{
+    margin-top:20px;
+    border:none;
+    width:200pX;
+    padding-top:10px;
+    padding-bottom: 10px;
+    border-radius:5px;
+    color:white;
+    font-size:bold;
+    
+   
+ }
+ #increment-btn{
+    background: darkred;
+ }
+
+ #save-btn{
+    background:darkgreen;
+ }
+ 
+
+ 
