@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    
+}
+button{
+    background-color: white;
+}
+#btn{
+    margin-top:12px;
+    margin-bottom: 20px;
+}
+#mul{
+    margin-bottom: 15px;
+}
+#num1-el{
+    text-decoration: underline;
+    
+    
+}
+
+#num2-el{
+    text-decoration: underline;
+}
+#sum{
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
