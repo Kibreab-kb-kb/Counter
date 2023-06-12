@@ -1,5 +1,5 @@
 let firstCard=getRandomCard();
-let secondCard=GetRandomCard();
+let secondCard=getRandomCard();
 let cards=[firstCard,secondCard];
 let newcard=4;
 let sum=firstCard+secondCard;
