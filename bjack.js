@@ -1,4 +1,4 @@
-let firstCard=GetRandomCard();
+let firstCard=getRandomCard();
 let secondCard=GetRandomCard();
 let cards=[firstCard,secondCard];
 let newcard=4;
